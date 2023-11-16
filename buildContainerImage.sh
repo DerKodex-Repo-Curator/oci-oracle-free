@@ -25,7 +25,7 @@ set -Eeuo pipefail
 
 VERSION="23.3"
 FLAVOR="REGULAR"
-IMAGE_NAME="gvenzl/oracle-free"
+IMAGE_NAME="registry.xaas.ar/oracledb"
 SKIP_CHECKSUM="false"
 FASTSTART="false"
 BASE_IMAGE=""
